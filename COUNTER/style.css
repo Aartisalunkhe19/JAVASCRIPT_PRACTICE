@@ -1,0 +1,47 @@
+#h {
+    text-align: center;
+    color: brown;
+    border : 3px solid black;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+#d1 {
+    text-align: center;
+    padding-top: 80px;
+    
+}
+
+#b1{
+
+    height: 30px;
+    width: 50px;
+   
+}
+
+#b2{
+
+    height: 30px;
+    width: 50px;
+}
+
+#d2{
+      text-align: center;
+    padding-top: 30px;
+    
+}
+#b3{
+    height: 30px;
+    width: 50px;
+}
+
+#b4{
+    height: 30px;
+    width: 50px;
+}
+#b5{
+    height: 30px;
+    width: 50px;
+}
+
